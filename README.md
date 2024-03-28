@@ -1,6 +1,6 @@
 # SeniorCare
 
-![Icon](Senior Care/icon.png)
+![Icon](icon.png)
 
 SeniorCare is a desktop application designed to help elderly individuals manage their health. It provides features such as medication reminders, weather-based advice, and dedicated interfaces for elderly users and healthcare professionals.
 
