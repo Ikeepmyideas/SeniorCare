@@ -7,39 +7,39 @@ SeniorCare is a desktop application designed to help elderly individuals manage 
 <h1> Features</h1>
 <h5>User Identity Management:</h5>
 <p>
-  - User registration and login (patients and doctors).
-  - Customized profiles with medical information.
+  - User registration and login (patients and doctors).<br>
+  - Customized profiles with medical information.<br>
 </p>
 <h5>Medication Reminders Management:</h5>
 <p>
-  - Creation, modification, deletion, and display of medication reminders.
-  - Notifications for medication intake at predefined times.
+  - Creation, modification, deletion, and display of medication reminders.<br>
+  - Notifications for medication intake at predefined times.<br>
 </p>
   <h5>Medical Appointment Tracking:</h5> 
 <p>
-  - Calendar of appointments with healthcare professionals.
-  - Appointment reminders.
+  - Calendar of appointments with healthcare professionals.<br>
+  - Appointment reminders.<br>
 </p>
   <h5>CURL Integration for Weather and Medical Information:</h5>
 <p>
-  - Retrieval of weather data to provide personalized advice.
-  - Access to medical databases for medication information.
+  - Retrieval of weather data to provide personalized advice.<br>
+  - Access to medical databases for medication information.<br>
 </p>
   <h5>Graphical User Interface:</h5>
 <p>
-  - Intuitive user interface for elderly individuals.
-  - Separate interface for doctors, with access to multiple patient records.
+  - Intuitive user interface for elderly individuals.<br>
+  - Separate interface for doctors, with access to multiple patient records.<br>
 </p>
 <h5> Emergency Communication:</h5>
 <p>
-  - Emergency button to contact emergency services or relatives.
-  - Automatic transmission of medical information in case of emergency.
+  - Emergency button to contact emergency services or relatives.<br>
+  - Automatic transmission of medical information in case of emergency.<br>
 </p>
 <h5>Configuration and Settings:</h5>
 <p>
-User preferences configuration, alerts, and emergency contacts.</p>
+User preferences configuration, alerts, and emergency contacts.</p><br>
 <h5>Health Journal:</h5>
 <p>
-Daily tracking of various health parameters.
-Health data history for doctor monitoring.
+  - Daily tracking of various health parameters.<br>
+  - Health data history for doctor monitoring.<br>
 </p>
